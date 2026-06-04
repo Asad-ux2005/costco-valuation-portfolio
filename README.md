@@ -47,17 +47,29 @@ Click on any of the core methodologies below to see how the sausage is made!
 
 ## 🧠 Key Insight Breakdown
 
-```text
-==================================================
-  SYSTEM ENGINE: COSTCO MOAT MATRIX SUMMARY
-==================================================
-  > Target Company  : Costco Wholesale (COST)
-  > Model WACC      : 8.64% [Discount Rate Engine]
-  > Market Baseline : 61.8x Trailing P/E Multiple
-  > Global Renewal  : 90.0%+ Global Membership Rate
---------------------------------------------------
-[METRIC ANALYSIS CHECK]
-🔥 MOAT STATUS VERIFIED: Premium valuation multiples 
-are structurally supported by highly predictable, 
-recurring membership cash flow streams.
-==================================================
+> [!NOTE]
+> ### 💻 COSTCO MOAT MATRIX SUMMARY
+> * **Target Company:** `Costco Wholesale (COST)`
+> * **Model WACC:** `8.64%` *(Discount Rate Engine)*
+> * **Market Baseline:** `61.8x` Trailing P/E Multiple
+> * **Global Renewal:** `90.0%+` Global Membership Rate
+
+> [!IMPORTANT]
+> ### 🔥 VALUATION STATUS VERIFIED
+> Premium valuation multiples are structurally supported by highly predictable, recurring membership cash flow streams. This is an operational annuity, not a standard retail business.
+
+---
+
+## 🚦 Roadmap & Next Steps
+- [x] Gather historical financials and sector M&A data
+- [x] Build core DCF, Comps, and Precedent frameworks
+- [ ] Finalize terminal growth rate sensitivities 
+- [ ] Export key model dashboards to visual PDFs for quick-viewing
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+</p>
+
+*Disclaimer: Built strictly for financial portfolio and educational demonstration purposes. Not actual investment advice.*
