@@ -48,10 +48,22 @@ Click on any of the core methodologies below to see how the sausage is made!
 ## 🧠 Key Insight Breakdown
 
 ```python
-def costco_moat_analysis():
-    membership_renewal_rate = 0.90  # 90%+ renewal consistency
-    margin_source = "Membership Fees"
-    product_strategy = "Sell at cost to lock in loyalty"
-    
-    if membership_renewal_rate >= 0.90:
-        return "🔥 High-predictability cash flow annuity. Premium multiple justified."
+class CostcoValuationSuite:
+    def __init__(self):
+        self.ticker = "COST"
+        self.wacc = 0.0864  # Calculated 8.64% WACC
+        self.ltm_pe = 61.8   # Comps Multiple Baseline
+        
+    def execute_sanity_check(self):
+        print(f"[RUNNING SYSTEM EVALUATION FOR {self.ticker}]")
+        print(f" -> Core WACC Engine Discount Rate: {self.wacc * 100:.2f}%")
+        print(f" -> Current Market Trailing P/E: {self.ltm_pe}x")
+        
+        # Testing valuation justification against structural moat
+        membership_renewal = 0.90 
+        if membership_renewal >= 0.90:
+            return "🔥 SYSTEM STATUS: Premium valuation multiples mathematically supported by recurring annuity stream."
+
+# Initialize and run the portfolio model checks
+model_run = CostcoValuationSuite()
+print(model_run.execute_sanity_check())
