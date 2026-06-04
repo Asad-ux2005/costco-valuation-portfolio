@@ -53,5 +53,5 @@ def costco_moat_analysis():
     margin_source = "Membership Fees"
     product_strategy = "Sell at cost to lock in loyalty"
     
-    if membership_renewal_rate > 0.90:
+    if membership_renewal_rate >= 0.90:
         return "🔥 High-predictability cash flow annuity. Premium multiple justified."
