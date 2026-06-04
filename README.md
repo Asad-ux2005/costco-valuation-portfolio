@@ -20,7 +20,7 @@ Click on any of the core methodologies below to see how the sausage is made!
 <summary><b>📈 1. The 5-Year DCF Model (Intrinsic Valuation)</b></summary>
 <br>
 
-* **The File:** `https://github.com/Asad-ux2005/costco-valuation-portfolio/blob/main/Costco%20DCF.xlsx`
+* **The File:** `Costco DCF.xlsx`
 * **The Engine:** Built on fully integrated statements (`IS`, `BS`, `CFS`) running a 5-year Unlevered Free Cash Flow forecast.
 * **The Brains:** Powered by a custom `2)WACC` calculator and a dynamic `DCF Fill in` sheet complete with growth rate sensitivity tables.
 </details>
