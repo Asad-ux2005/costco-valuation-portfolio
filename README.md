@@ -1,7 +1,7 @@
 # 🛒 Costco Wholesale Corp. (COST) Valuation Portfolio
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Methodology-DCF%20%7C%20Comps%20%7C%20Precedents-FF5733?style=for-the-badge" alt="Methodologies" />
+  <img src="https://img.shields.io/badge/Methodology-DCF%20%7C%20Comps%20%7C%20M%26A%20Acc%2FDil-FF5733?style=for-the-badge" alt="Methodologies" />
   <img src="https://img.shields.io/badge/Sector-Consumer%20Defensive-007ACC?style=for-the-badge" alt="Sector" />
   <img src="https://img.shields.io/badge/Status-Active%20Build-brightgreen?style=for-the-badge&logo=github" alt="Status" />
 </p>
@@ -43,6 +43,16 @@ Click on any of the core methodologies below to see how the sausage is made!
 * **The Data:** Evaluates transaction multiples from major sector plays by titans like **C&S Wholesale Grocers**, **SpartanNash**, and **Kroger**.
 </details>
 
+<details>
+<summary><b>🤝 4. M&A Accretion / Dilution Model (Strategic Combination)</b></summary>
+<br>
+
+* **The File:** `COSTCO AccDil model.xlsx`
+* **The Scenario:** A hypothetical corporate buyout of **BJ's Wholesale Club (BJ)** by Costco at an **Equity Purchase Price of $14.196B** ($109.20 per share, reflecting a 30% offer premium).
+* **The Structure:** Funded via a mixed consideration strategy: **50% Stock**, **30% Debt** (5.5% interest rate), and **20% Cash** (3.5% foregone interest).
+* **The Bottom Line:** The model proves the transaction is **+3.07% Accretive** to Costco's FY2026E EPS, expanding pro forma EPS from $20.00 to **$20.61**, unlocking $300M in annual run-rate synergies.
+</details>
+
 ---
 
 ## 🧠 Key Insight Breakdown
@@ -53,10 +63,11 @@ Click on any of the core methodologies below to see how the sausage is made!
 > * **Model WACC:** `8.64%` *(Discount Rate Engine)*
 > * **Market Baseline:** `61.8x` Trailing P/E Multiple
 > * **Global Renewal:** `90.0%+` Global Membership Rate
+> * **Strategic M&A Lever:** `+3.07% EPS Accretion` via BJ's Wholesale Consolidation
 
 > [!IMPORTANT]
 > ### 🔥 VALUATION STATUS VERIFIED
-> Premium valuation multiples are structurally supported by highly predictable, recurring membership cash flow streams. This is an operational annuity, not a standard retail business.
+> Premium valuation multiples are structurally supported by highly predictable, recurring membership cash flow streams. This is an operational annuity, not a standard retail business. Furthermore, M&A mechanics demonstrate that Costco can accretively weaponize its premium stock equity to swallow smaller industry competitors (e.g., BJ's) while expanding earnings power.
 
 ---
 
